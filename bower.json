@@ -1,8 +1,8 @@
 {
-  "name": "ngAcl",
-  "main": "dist/ngacl.js",
-  "version": "0.0.1",
-  "homepage": "https://github.com/FDIM/ng-acl.git",
+  "name": "ngModule",
+  "main": "dist/ngModule.js",
+  "version": "1.0.",
+  "homepage": "https://github.com/FDIM/ng-module.git",
   "authors": ["FDIM <domas.trijonis@gmail.com>"],
   "description": "desc",
   "keywords": [],
@@ -21,11 +21,11 @@
     "*.conf.js"
   ],
   "dependencies": {
-    "angular": ">=1.0.8"
+    "angular": ">=1.5.5"
   },
   "devDependencies":
   {
-    "angular-mocks": ">=1.0.8"
+    "angular-mocks": ">=1.5.5"
   }
 
 }

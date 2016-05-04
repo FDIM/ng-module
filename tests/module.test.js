@@ -1,10 +1,10 @@
 "use strict";
 
-describe('my awesome app', function()
+describe('module', function()
 {
   var _GreetingService;
 
-  beforeEach(module('ngAcl'));
+  beforeEach(module('ngModule'));
 
   beforeEach(inject(function($injector)
   {
